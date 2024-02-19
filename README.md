@@ -20,4 +20,7 @@ The following metrics were calculated:
 Note: changes of mind have not been calculated as the baseline trials to be considered have not been specified.
 
 The results can be found in the csv files within the Hand Tracking Metrics folder
+
+Warning: The FDA-based normalization method might return duplicate elements of the array which triggers an error in the subsequent methods.
+The duplicate elements were deleted and this number is indicated in the output file (fda_de). If 0, no element was eliminated (which is the case for most trials).
  
