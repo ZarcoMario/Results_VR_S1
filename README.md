@@ -4,7 +4,7 @@ The data was processed according to the following steps:
 
 - Resample data using the Matlab resample method (90 Hz)
 - Filter data with a low-pass Butterworth filter (dual pass, 10 Hz cutoff, 2nd order)
-- Motion onset and motion termination were calculated to extract the reach trajetcory
+- Motion onset and motion termination were calculated to extract the reach trajectory
 - FDA-based normalization of the data
 
 The following metrics were calculated:
@@ -17,6 +17,7 @@ The following metrics were calculated:
 	- zy
 	- xzy
 
-Note: changes of mind have not beeen calculated as the baseline trials to be considered have not been specified.
+Note: changes of mind have not been calculated as the baseline trials to be considered have not been specified.
 
+The results can be found in the csv files within the Hand Tracking Metrics folder
  
