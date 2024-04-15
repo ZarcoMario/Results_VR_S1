@@ -17,8 +17,6 @@ The following metrics were calculated:
 	- zy
 	- xzy
 
-Note: changes of mind have not been calculated as the baseline trials to be considered have not been specified.
-
 The results can be found in the csv files within the Hand Tracking Metrics folder
 
 Warning: The FDA-based normalization method might return duplicate elements of the array which triggers an error in the subsequent methods.
